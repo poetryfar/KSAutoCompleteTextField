@@ -1,0 +1,5 @@
+KSAutoCompleteTextfield refresh UI.
+KSAutoCompleteTextfieldDelegate manage inputs logic.
+KSAutoCompleteDataSource is designed to get matching data.
+Do not mix with each other logically, this is just a simple demo, if add lots of  business, will be very painful, trust me.
+
