@@ -2,7 +2,7 @@
 //  NSString+URL.m
 //  ksmobilebrowser
 //
-//  Created by pengbi on 3/18/13.
+//  Created by poetryfar on 3/18/13.
 //  Copyright (c) 2013 Kingsoft. All rights reserved.
 //
 

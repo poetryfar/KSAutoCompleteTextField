@@ -12,5 +12,8 @@
 
 
 @property(nonatomic,assign)KSAutoCompleteTextfield *autoCompleteTextfield;
+/**
+ 地址栏文本变化的回调
+ */
 - (void)textChanged:(NSNotification*)notification;
 @end
